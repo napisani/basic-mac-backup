@@ -11,3 +11,5 @@
 /Previous Systems.localized
 .Spotlight-*/
 .*
+/User/np447/Desktop/*
+/User/np447/Downloads/*
