@@ -10,4 +10,4 @@
 /private/var/vm/*
 /Previous Systems.localized
 .Spotlight-*/
-.*
+.Trashes
